@@ -16,8 +16,6 @@
 
 # Shopify visão geral
 
-## O que é a Shopify?
-
 Shopify é uma plataforma de comércio eletrônico que funciona como um **sistema operacional de vendas**. Ela permite que empresas comercializem seus produtos em diversos canais — como lojas virtuais, pontos de venda físicos, marketplaces (ex: Amazon, eBay) e redes sociais (ex: Facebook, Instagram).
 
 É uma plataforma robusta que **centraliza a operação do negócio**, oferecendo soluções integradas de pagamento, logística, marketing, gerenciamento de produtos e atendimento ao cliente.
