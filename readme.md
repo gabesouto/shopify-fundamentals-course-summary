@@ -14,7 +14,7 @@
 </div>
 
 
-# Shopify visão geral
+# Shopify
 
 A Shopify é uma plataforma de e-commerce que permite a criação e gestão de lojas virtuais de forma fácil e escalável. Ela oferece ferramentas para vender produtos online, em pontos físicos e em marketplaces. É amplamente utilizada por pequenos negócios e grandes marcas. Desenvolvedores podem estender sua funcionalidade com temas, apps e APIs
 
